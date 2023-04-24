@@ -9,7 +9,11 @@ How this Character Trait works:
     * Each day that the obsession would still be in effect, the saving throw must be re-rolled
 * At the end of 1d6 days **plus** a long rest, the obsession is gone
     * e.g. if you roll 1: After one day, take a long rest, the obsession is gone
+
 ---
+
+| head1 | head2 | head3 |
+| ----- | ----- | ----- |
 | 1 - 3 | you awake from a dream wherein you hear the call of the great old one, commanding that you summon my ancient kin to this realm: my ancient kin, who are beyond human understanding, must be summoned to this world. only then will the true power of my kingdom be unlocked.  obsessed with: seeking out or summoning a powerful demon or devil. Before any other activity is started, you must attempt to satisfy this obsession by gathering spells, materials, to cast a spell of summoning, or the aid of a magic user with the skills to sumon a demon or devil or other creature from The Abyss. If an obsession item is collected or the aid of a wizard enlisted, roll DC15 wisdom saving throw to see if the obsession has gone away. if a demon is summoned, the obsession goes away. but this demon may or may not be friendly. |
 | 4 - 6 | you awake from a dream where a matronly figure has been berating you for your hair style. are you really wearing your hair like that?.  obsessed with: experimenting with new hairstyles or hair colors. This obsession causes no impediment beyond role playing quirkiness. |
 | 7 - 9 | you awake from a dream wherein you were a foreginer, merely visiting this land. you spoke a bit funny.  obsessed with: talking in different accents. This obsession causes no impediment beyond role playing quirkiness. |
